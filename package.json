@@ -8,13 +8,26 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "vite": "^4.0.0",
-    "tailwindcss": "^3.0.0",
-    "postcss": "^8.0.0",
-    "autoprefixer": "^10.0.0"
-  }
+    "@vitejs/plugin-react": "^4.4.0",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.4.17",
+    "vite": "^4.5.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Onetappedd/portfolio-mangement-tool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Onetappedd/portfolio-mangement-tool/issues"
+  },
+  "homepage": "https://github.com/Onetappedd/portfolio-mangement-tool#readme",
+  "description": ""
 }
